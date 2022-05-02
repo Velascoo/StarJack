@@ -16,6 +16,9 @@ While programming this game, I will learn the basics of game development as well
 
 To run this file you need to navigate to the run.py file in the root and execute it. Alternativley you can also type "python run.py" in your terminal.
 
+You can follow the read me instructions to test the website yourself. To set up a virtual environment follow this tutorial: https://codecookies.xyz/python/virtual-environment
+To set up development: go to the .env file and change FLASK_ENV=production to FLASK_ENV=development.
+
 =---------=
 # Credits #
 =---------=
